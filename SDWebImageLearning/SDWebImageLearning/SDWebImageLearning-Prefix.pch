@@ -1,0 +1,18 @@
+//
+//  SDWebImageLearning-Prefix.pch
+//  SDWebImageLearning
+//
+//  Created by wildyao on 15/1/31.
+//  Copyright (c) 2015年 wildyao. All rights reserved.
+//
+
+#ifndef SDWebImageLearning_SDWebImageLearning_Prefix_pch
+#define SDWebImageLearning_SDWebImageLearning_Prefix_pch
+
+#ifdef __OBJC__
+    #import <Availability.h>
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#endif

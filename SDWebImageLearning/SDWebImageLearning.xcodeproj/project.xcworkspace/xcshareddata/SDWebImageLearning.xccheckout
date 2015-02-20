@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B435D85C-1DA8-4562-95D9-F243D4161E09</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SDWebImageLearning</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>93EACA8AC610F2B4E58F447CF49C990009D991E9</key>
+		<string>github.com:z8927623/SDWebImageLearning.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SDWebImageLearning/SDWebImageLearning.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>93EACA8AC610F2B4E58F447CF49C990009D991E9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:z8927623/SDWebImageLearning.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>93EACA8AC610F2B4E58F447CF49C990009D991E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>93EACA8AC610F2B4E58F447CF49C990009D991E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDWebImageLearning</string>
+		</dict>
+	</array>
+</dict>
+</plist>
